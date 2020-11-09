@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-774136860/firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-774136860/firebase_auth.iml" group="android/firebase_auth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1955354282/firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1955354282/firebase_core.iml" group="android/firebase_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1930643442/firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/1930643442/firebase_database.iml" group="android/firebase_database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-647656411/fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/-647656411/fluttertoast.iml" group="android/fluttertoast" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1663224848/open_file.iml" filepath="$PROJECT_DIR$/.idea/modules/1663224848/open_file.iml" group="android/open_file" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1450124795/path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-1450124795/path_provider.iml" group="android/path_provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2058670580/printing.iml" filepath="$PROJECT_DIR$/.idea/modules/2058670580/printing.iml" group="android/printing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1345055104/shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/1345055104/shared_preferences.iml" group="android/shared_preferences" />
+    </modules>
+  </component>
+</project>

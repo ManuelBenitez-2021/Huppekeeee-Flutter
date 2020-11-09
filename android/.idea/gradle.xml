@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../../Datas/Android/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.18.2/android" />
+            <option value="$PROJECT_DIR$/../../../../Datas/Android/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.1/android" />
+            <option value="$PROJECT_DIR$/../../../../Datas/Android/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-4.2.0/android" />
+            <option value="$PROJECT_DIR$/../../../../Datas/Android/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/android" />
+            <option value="$PROJECT_DIR$/../../../../Datas/Android/flutter/.pub-cache/hosted/pub.dartlang.org/open_file-3.0.3/android" />
+            <option value="$PROJECT_DIR$/../../../../Datas/Android/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.22/android" />
+            <option value="$PROJECT_DIR$/../../../../Datas/Android/flutter/.pub-cache/hosted/pub.dartlang.org/printing-3.7.0/android" />
+            <option value="$PROJECT_DIR$/../../../../Datas/Android/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.12+2/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

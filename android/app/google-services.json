@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "198299003179",
+    "firebase_url": "https://huppekeeee.firebaseio.com",
+    "project_id": "huppekeeee",
+    "storage_bucket": "huppekeeee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198299003179:android:934ed47516338036923d6e",
+        "android_client_info": {
+          "package_name": "com.laodev.huppekeeee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198299003179-tl50l0kqsmsdddnqqjn7ej8spvi3b9lk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laodev.huppekeeee",
+            "certificate_hash": "216469bff82669153a20b974377e9723048924a6"
+          }
+        },
+        {
+          "client_id": "198299003179-02fg6214vkdk0tomdjj4kn50jb04kkb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmSPbFYqspEBeGfYwWE-BduIA17Bg7sQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198299003179-02fg6214vkdk0tomdjj4kn50jb04kkb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
